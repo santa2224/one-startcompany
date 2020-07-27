@@ -1,0 +1,33 @@
+@charset 'utf-8';
+
+
+#first-content{
+    font-family: 'ImcreSoojin';
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,0.6);
+}
+#up-page:hover{
+    background-color: white;
+}
+
+.services>.service-item>h4{
+    font-size: 20px;
+}
+#icon{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.font-20px{
+    font-size: 20px;
+}
+.font-kor{
+    font-family: 'ImcreSoojin';
+    font-weight: normal;
+}
+.section-box{
+    padding: 10.8rem 0 6.8rem;
+}
+.font-22px{
+    font-size: 22px;
+}
